@@ -165,7 +165,7 @@ icons: [
   },
   {
     iconName: 'botox',
-    caption: 'Botox',
+    caption: 'Hyaluron',
   },
   {
     iconName: 'byoniklaser',
